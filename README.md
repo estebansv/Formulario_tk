@@ -1,4 +1,5 @@
-# Formulario de Entrada de Datos en Excel
+# Formulario de Entrada de Datos Guardados en Excel
+
 
 Este proyecto es una aplicación de escritorio simple desarrollada con Python y la biblioteca `tkinter` que permite a los usuarios ingresar y guardar datos en un archivo de Excel. La aplicación es útil para capturar información básica como nombre, edad, correo electrónico, teléfono y dirección, y almacenarla de manera estructurada en un archivo llamado `datos.xlsx`.
 
